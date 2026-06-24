@@ -1,22 +1,14 @@
 import sys
 import pygame
 from pygame.locals import (
-    DOUBLEBUF,
-    OPENGL,
-    RESIZABLE,
-    QUIT,
-    VIDEORESIZE,
-    MOUSEBUTTONDOWN,
-    MOUSEBUTTONUP,
-    MOUSEMOTION,
-    KEYDOWN,
-    K_ESCAPE,
-    K_r,
-    K_n,
-    K_EQUALS,
-    K_KP_PLUS,
-    K_MINUS,
-    K_KP_MINUS,
+    DOUBLEBUF, OPENGL,
+    RESIZABLE, QUIT,
+    VIDEORESIZE, MOUSEBUTTONDOWN,
+    MOUSEBUTTONUP, MOUSEMOTION,
+    KEYDOWN,  K_ESCAPE,
+    K_r, K_n,
+    K_EQUALS, K_KP_PLUS,
+    K_MINUS, K_KP_MINUS,
 )
 
 import renderer
