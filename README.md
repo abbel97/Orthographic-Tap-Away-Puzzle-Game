@@ -56,6 +56,6 @@ A high score means many cubes are buried deep in dependency chains and require c
 ## Setup
 
 ```bash
-pip install pygame PyOpenGL PyOpenGL_accelerate numpy
+pip install -r requirements.txt
 python main.py
 ```
